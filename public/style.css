@@ -1,0 +1,23 @@
+#messi {
+  background-color: #f0f0f0;     /* Light gray background */
+  border: 1px solid #ccc;        /* Subtle border */
+  padding: 10px 15px;            /* Space inside the box */
+  border-radius: 8px;            /* Rounded corners */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Soft shadow */
+  max-width: 300px;              /* Optional: limit width */
+  margin: 10px auto;             /* Center horizontally */
+  font-family: Arial, sans-serif;
+
+}  
+#messo {
+  background-color: #0713f8;     /* Light gray background */
+  border: 1px solid #ccc;        /* Subtle border */
+  padding: 10px 15px;            /* Space inside the box */
+  border-radius: 8px;            /* Rounded corners */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Soft shadow */
+  max-width: 300px;              /* Optional: limit width */
+  margin: 10px auto;             /* Center horizontally */
+  font-family: Arial, sans-serif;
+
+
+}
